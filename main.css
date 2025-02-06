@@ -1,4 +1,12 @@
-.linkedin {
+body{
+    font-family: "Merriweather", serif;
+}
+
+svg {
     fill: #f5efe7;
     fill: #2d3460;      
+}
+
+svg:hover{
+    fill:red
 }
