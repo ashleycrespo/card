@@ -7,10 +7,6 @@ svg {
     fill: #2d3460;      
 }
 
-svg:hover{
-    fill:red 
-}
-
 .icon-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
